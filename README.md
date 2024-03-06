@@ -11,11 +11,14 @@ alanlarına stripe api bilgilerinizi tanımlayınız.
 https://dashboard.stripe.com/test/products?active=true
 
 Product catalog adresinde bir plan hazırlıyınız. Planların fiyatını/ödeme periyoduna göre ayarlayın.
+
 Stripe tarafından üretilen plan/fiyat idsini kopyalayınız.
+
 ÖRNEK API ID
 price_1OrGHM2KfsafsaQAZdjyGbnVAw3sfaWmy
 
 database/seeders/PlanSeeder.php dosyasında paketinizle eşleyiniz.
+
 stripe_id = (Üretilen fiyat id)
 
 ## Kurulum
