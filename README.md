@@ -1,5 +1,7 @@
 Abonelik planı satın alımı ve yönetimi için örnek kod bloğu
 
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/ael85eGqwDk/0.jpg)](https://www.youtube.com/watch?v=ael85eGqwDk "subscription")
+
 .env dosyasında
 
 STRIPE_KEY=
